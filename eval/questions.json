@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "question": "What are the key differences between RAG and fine-tuning for domain adaptation?",
+    "notes": "Verifiable technical topic. Ground truth: RAG=retrieval at inference, fine-tuning=weight updates; cost, freshness, hallucination trade-offs."
+  },
+  {
+    "id": 2,
+    "question": "REPLACE ME — write 18-19 more questions you can personally verify. Mix: technical topics, recent events (tests search quality), and 2-3 questions with NO good answer online (tests whether the system admits uncertainty instead of hallucinating)."
+  }
+]
